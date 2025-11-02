@@ -1,0 +1,101 @@
+ClaimID,Name,DOB,PolicyNumber,ClaimDate,Diagnosis,AmountClaimed,Status
+17ee5159-8b84-4cce-9af7-46e1d72a7d40,Darryl Brown,1960-12-16,gJ26825,2024-01-13,Dental Surgery,2452.8,Rejected
+102d8fe4-1dc1-4e94-8906-6d414f932775,Robert Sanchez,1962-10-17,tb81779,2024-06-01,Fractured Arm,3341.24,Rejected
+05f11494-2edb-42fd-aa6d-ea4ead4b5b73,Jessica Moses,1949-05-17,hT35627,2024-09-25,Back Pain,3955.91,Rejected
+2a450c89-f4a5-4ded-af66-f30d39df1f9c,Maria Rodriguez,1993-09-26,QY70990,2024-08-20,Fractured Arm,4104.87,Approved
+21140fa2-b234-4ff9-84c8-fee0fc3e2479,David Johnson,1957-06-03,Pm51664,2024-09-27,Car Accident,3924.68,Pending
+739181b5-a46d-4588-b5ea-bbebe8c3fcff,Lori Cobb,1986-03-19,aP66277,2025-01-02,Dental Surgery,1724.75,Rejected
+fbfa94ed-0454-469a-b200-45b88fdd2711,Angela Randall,1981-03-15,bi04477,2023-11-11,Back Pain,57.1,Approved
+b171893a-dc72-45be-a21e-c033b5a21981,Ryan Short,1965-04-14,Wf61143,2024-02-02,Car Accident,2462.34,Pending
+690b5280-772a-4575-bc6f-5f53054b24e5,Donna Williams,1958-12-23,Ht53665,2024-05-14,COVID-19,977.19,Approved
+20059943-0fe4-41f1-a540-3a41dbc9f0c0,Bryan Warner,1965-09-17,Kp51948,2024-04-03,Dental Surgery,4454.41,Pending
+21c5f06a-c513-4d23-afa6-a7abd9575517,Benjamin Malone,2004-01-01,tb16265,2023-10-28,Fractured Arm,2277.9,Approved
+98dbca80-f131-4aa5-a7bc-d3e6691a1d78,Lisa Pratt,1964-02-10,wh26133,2024-09-23,Car Accident,2169.63,Pending
+caf27fd3-fb5e-49cf-ac9b-ddca8d5ed4d1,Donald Smith,1981-08-10,qv30811,2024-08-26,Dental Surgery,2757.46,Pending
+c9c8a3d0-a188-4544-a738-91e7cb3cb2e3,Nicholas Kirby,1961-07-09,lY38160,2024-08-27,Flu,4242.05,Pending
+ff18b40e-7213-46e2-b997-8f1b2e1defa0,Philip Maynard,1965-02-13,up28023,2024-07-27,Car Accident,4814.82,Approved
+d6aaecc7-3ba2-4dcc-b0fa-926b4481ea69,Brenda Gibson,1974-06-10,UJ98712,2024-08-25,COVID-19,4967.21,Pending
+7941570d-9c5a-4a74-bd76-31338d813555,Christopher Coleman Jr.,1951-06-21,Yr01226,2023-10-12,Dental Surgery,1321.6,Approved
+ebf660d7-28c3-453d-8fd9-126e48208cba,William Riley,1962-09-19,sd95483,2025-01-16,Dental Surgery,3366.12,Pending
+db52c2f6-6225-4b5a-9d28-d51d4ce03605,Zachary Cameron,1975-04-27,Np65671,2024-06-03,Car Accident,1276.6,Approved
+1b398dfe-e8ce-47b5-83d7-3893af43da05,Bryan Vasquez,1979-12-11,NH39482,2024-08-14,Car Accident,1349.0,Approved
+d074d72f-de05-4fef-b231-3f53d07706d7,David Ramirez,2002-04-18,rp08532,2024-05-29,COVID-19,1553.79,Pending
+36baee2c-194a-4770-9d38-c03ab0260f01,Curtis Cross,2003-06-11,Pi72485,2024-02-07,Fractured Arm,2981.25,Rejected
+57ddccce-8657-4127-96bd-bf61be76d913,Ricardo Scott,2005-10-23,nF94738,2023-11-12,Flu,4184.82,Rejected
+fb7787a5-a7be-41b9-b22c-c50264489d96,Dr. Diana Johnson MD,1960-01-19,OZ48465,2024-02-13,Car Accident,2352.61,Approved
+db460233-2514-4137-b582-350af6f38d73,Thomas Figueroa,1972-08-27,zX92124,2024-08-17,Car Accident,3155.49,Approved
+a3e97c81-f8f0-49c3-b321-72af3aca0dd1,Katherine Green,2005-03-25,qv14860,2024-04-03,Fractured Arm,2713.62,Approved
+011e0517-3a50-4828-b2d6-7822d6669f5b,James Baker,1963-05-19,dT52641,2024-12-29,Fractured Arm,3635.58,Approved
+22540074-e5d6-426a-8e7b-d6a3636373e5,David Campos,1957-07-16,Ic14947,2023-12-18,Dental Surgery,4311.04,Rejected
+bc4593af-c813-42ac-99a7-d6892b791905,Judy Contreras,1985-05-16,Me33223,2025-02-15,Flu,762.23,Approved
+13795959-63b3-4aca-8860-f20b1e882cb4,Donald Mcdonald,1993-04-23,dS62684,2024-08-08,Car Accident,4050.13,Rejected
+c0387ebe-0c04-4f36-adca-2d1435ace73c,Michael Smith,1964-10-20,LJ71185,2023-07-07,Flu,4866.4,Pending
+555e07bf-2426-4d46-ba83-16322e9c299c,Tony Ramirez,1996-08-14,VK33048,2024-01-03,Back Pain,3491.95,Approved
+1cc0ff17-5736-4ead-8047-dca42f0616d3,Jeremy Mcclure,1951-02-08,al77925,2024-10-16,COVID-19,2122.67,Rejected
+8c24e175-07a2-4723-9df9-fcab5e4bb35b,Stacy Stark,1994-10-07,AO40437,2023-11-14,Flu,2607.89,Pending
+06da7d51-6394-412c-b872-1a7b6ac283c3,Jennifer Vasquez,1947-07-12,PY79389,2023-07-18,COVID-19,55.29,Approved
+e79c37e7-0157-4f0b-ab19-ba2cccd277f3,Samantha Ferguson,1998-01-20,Lp31012,2025-03-13,Fractured Arm,1546.53,Rejected
+2250365e-5074-4441-b754-11b0e89a8a52,Dalton Knight,1963-01-08,yW59687,2024-10-21,Back Pain,92.22,Pending
+6284266b-51b7-434b-a005-f26528673410,Francis Noble,1989-11-28,oQ02562,2023-10-17,Flu,4012.98,Approved
+98439dfe-3efa-4a58-be9c-69f463b6f668,Bryan Taylor,1958-09-06,Lf59304,2024-12-18,Fractured Arm,757.87,Pending
+293f7631-5c59-4606-abc1-bd088c18a97b,Dr. Leslie Espinoza,1970-06-25,dM05826,2025-01-17,Flu,197.13,Rejected
+aa2be4e8-3314-4ed5-82b9-98e3bb3d8891,Victoria Castillo,1963-02-22,vE71433,2024-10-13,Back Pain,4131.56,Approved
+1ee66ffd-2970-458b-90d6-8ee0eb9a446c,Michael Walker DVM,1976-01-23,by78837,2024-05-07,Flu,4841.21,Rejected
+e5f33686-614a-4885-8660-18cedc39f0b5,Valerie Johnson,1976-01-22,Vn89201,2023-12-02,COVID-19,4877.35,Rejected
+e9381157-ff98-4c89-8f02-96905847bef6,Jerry Spencer,1991-03-09,Li27788,2025-06-21,Back Pain,4151.79,Approved
+4e246e7e-26d1-4611-9abd-bcce6a9e061c,Eric Wilson,1998-08-27,Ep04091,2024-08-27,Flu,2091.95,Approved
+765cd704-b70c-4d79-b778-774ac8875d0f,Linda Villanueva,1965-08-23,Nu04669,2024-01-30,COVID-19,2834.73,Approved
+ca85a57d-1f44-47b8-933a-528c7c00fafc,Rachel Salazar,1950-12-14,ZC26058,2023-12-20,Car Accident,1565.23,Approved
+5f07b77d-ae5d-4f0e-b1ef-64e24b5a9bd9,Timothy Richards,2004-12-21,Jt64427,2024-11-17,Dental Surgery,4905.63,Rejected
+368cb29c-9f66-4e5e-8cea-68690a10b8d5,Rebecca Maxwell,1982-10-09,Xr76711,2023-12-07,Car Accident,3844.66,Approved
+a9d51f51-42fb-48ca-943e-26e8d7232c12,Hannah Perry,2002-05-15,Yi74177,2023-07-07,Fractured Arm,3286.67,Pending
+37c47613-9dde-4fe3-ab99-633703465d56,Jill Parker,1992-08-27,tK85838,2023-12-11,COVID-19,1323.06,Pending
+5a7a965e-1e9b-42f3-aba2-fc2a35ae7750,Stephanie Raymond,1974-06-06,Jz12373,2024-10-29,COVID-19,3332.7,Rejected
+a4d29c25-e6a8-4a0c-840a-01eb2111f21f,Emily Brown,1984-02-15,An11682,2025-03-06,Dental Surgery,219.78,Approved
+fa9f93cc-2849-4bf3-bdbd-e017bd784d1a,Stephanie Alvarez,1948-06-24,EN86271,2023-08-22,Fractured Arm,2424.64,Pending
+3103c920-dc14-4304-b58d-afd26e13947a,Karen Flynn,1950-09-28,TX07764,2024-05-06,COVID-19,4485.34,Approved
+e6e735c8-d4f8-4f48-ad34-1d0c342fc83f,Beverly Harris,2002-12-13,Vu98537,2024-10-26,Dental Surgery,4082.0,Rejected
+930308aa-3598-47a3-8633-99ea7796f03b,Michael Wolf,1995-04-13,OH92044,2024-03-04,Fractured Arm,4553.93,Rejected
+42c793c2-f2d3-487b-9c33-b04b07cf9d55,Drew Kim,1958-06-29,Lk18014,2023-10-29,Car Accident,1691.98,Rejected
+1afeaffa-c0fc-4d3b-8009-c6c7a0ddf64d,Timothy Obrien,1965-10-11,rD26805,2023-09-18,Car Accident,2400.81,Pending
+e41e9894-17b8-4e10-b98c-898667bbda3c,Sheri Jones,1958-01-27,TE70992,2024-05-31,COVID-19,2662.36,Pending
+b33b6613-ab33-4609-b87a-94484e41bed4,Samuel George,1979-11-22,Td51992,2023-09-07,Car Accident,1178.78,Approved
+bfe39f3d-23f5-4e0c-8de0-f46c72eda721,Erica Lucas,1966-01-04,GL10872,2025-05-24,Dental Surgery,1441.52,Rejected
+93c0c497-9932-46f6-95b7-095db062c5b3,Kenneth Mann,2001-03-06,YZ15817,2023-07-31,Fractured Arm,3639.78,Rejected
+c77b4fe8-4036-4c1d-aa99-c5e8af563a0d,Cynthia Gonzalez,2002-08-17,UY10929,2024-02-10,Dental Surgery,2894.77,Rejected
+dd950566-d575-4061-a173-2afd1f995d41,Dylan Phelps,1976-05-29,Ra10305,2024-01-22,COVID-19,1682.97,Approved
+ebc431f2-9816-47e6-abf5-e30acfce1886,Mary Moore,2002-07-26,Pf60700,2024-06-12,Dental Surgery,2318.67,Approved
+25f1d7dc-0b0e-442d-b2d8-6c2d80b904b6,Crystal Andrews,1951-12-27,tc22620,2024-07-29,COVID-19,3677.82,Approved
+ec547004-8832-4481-9a9e-1489ea32389c,Andrew Gonzales,1987-04-29,KY68330,2023-11-12,Flu,1809.82,Pending
+07924f24-c41b-48cd-a3f1-a3cde6fcf19b,Susan Sanchez,2000-11-24,be61488,2025-05-28,Car Accident,1928.17,Pending
+b8ec3b1f-7cac-4298-9c2b-bbec3cbcc40f,Johnny Salazar,1947-11-19,kI42292,2024-01-07,Flu,2521.7,Pending
+697d3582-f30e-495a-a28a-099b2c3f9dba,Melinda Summers,1976-05-17,On62886,2025-01-04,Flu,773.79,Pending
+f49d7799-40bf-4396-b9f0-f8723b55d3ab,Jonathan Burke,1997-07-21,nN73143,2025-04-27,COVID-19,1481.4,Approved
+d0f8fbbf-e487-4af6-974f-14a909e646dd,Todd Terry,1960-03-25,Ss43525,2024-11-23,Car Accident,4249.65,Rejected
+3e853453-a14e-4a63-8da4-569075570520,Tanya Hensley,1994-06-13,Sz50621,2024-02-09,Back Pain,4819.35,Pending
+d7703b3f-b6bf-477f-a74f-813a33c2c2c8,Lisa Murphy,1977-08-23,Ng99640,2025-04-12,Back Pain,1965.8,Pending
+d2b84185-dde5-43c1-a767-7fc956e5b078,Jason Richardson,1966-11-20,Gp59459,2024-04-24,Flu,2690.49,Rejected
+5869c899-b683-4a75-87bc-3fd98427e25f,Richard Mercado,1965-03-29,ZE67610,2024-06-04,Fractured Arm,3220.65,Approved
+0b8190f6-4ec5-45a2-a068-ae807914c032,Alvin Jackson,1995-08-29,Dq56155,2024-10-24,COVID-19,2193.37,Approved
+c45cca46-73b3-466b-adb4-e7224a499da5,Katherine Woods,1972-08-27,GH27137,2023-11-18,COVID-19,4120.37,Rejected
+9ea27638-763a-404b-a64a-1361e9f8f299,Jessica Burns,1985-07-09,lW62577,2024-05-12,Back Pain,3590.14,Approved
+5e6ee6eb-1b8f-4d5c-ae2b-8cae32b94abf,Alex Harrison,1991-03-17,xb45564,2024-01-01,Dental Surgery,1895.71,Pending
+d56537e1-3815-4e9a-9b93-998b58d0545d,Brenda Williams,1992-03-18,QU02428,2025-01-06,Car Accident,2397.35,Rejected
+b2d25acc-f5f7-421c-97e0-907db2fb924f,Chase Collins,1980-03-23,iW24007,2024-02-25,COVID-19,4947.74,Pending
+6a238164-52fb-4d1c-8189-150f25578b38,Rachel Short,1992-04-03,If93773,2024-12-23,Dental Surgery,3265.0,Approved
+04391d03-fbdd-468f-a703-62f7ac7a1ded,Andrew Avila,1989-02-26,vK44327,2024-08-04,Back Pain,1415.41,Rejected
+091914a1-45b9-4d9a-955c-ebf0891ee49d,Pamela Little,1971-12-17,ai27690,2024-11-10,Flu,4905.43,Approved
+c318824f-5c7b-44bf-afe0-a89a3f849fc1,Ashley Pope,1997-09-29,Tq36460,2024-05-27,Back Pain,3302.13,Rejected
+2f45334b-43be-46e0-9e76-9826fc6e0df8,Kathy Parsons,1981-01-13,qG54818,2024-07-30,Car Accident,3404.24,Rejected
+c06f504e-0215-4ea9-8a31-c6cd722a79a0,Anthony Martinez,1952-10-20,qN61592,2023-12-03,Flu,3858.43,Approved
+d6bb476b-77f8-4963-856b-133cdaddf177,Carly Perez,1950-12-11,gd47971,2024-11-02,Back Pain,2808.11,Rejected
+09ae3896-9957-4fac-9941-81fa2c11b02d,Jody Everett,2007-06-10,aV07264,2024-01-05,Back Pain,3810.35,Approved
+f5e37399-8e3d-42ca-ac49-f82b1eec6081,David Rodriguez,1963-02-01,vr51460,2025-04-20,Fractured Arm,3437.89,Approved
+28cf3fbe-4718-4f06-94a0-074b94979dfc,James Chavez,1974-03-21,WJ07783,2023-09-07,Dental Surgery,2842.36,Approved
+52d281f3-8521-4030-870c-5fbd6318cfec,Terri Hernandez,1980-07-06,Rm29026,2023-09-18,COVID-19,641.3,Rejected
+d326422c-788c-444e-958a-546924217e5f,Melissa Freeman,1951-06-10,Ix13029,2024-09-21,Car Accident,1990.05,Pending
+37ed8bac-740c-4e64-95aa-72ba924bb4fc,Benjamin Simon,1949-08-19,Qm25709,2024-02-15,Dental Surgery,1910.77,Pending
+41512886-74bb-4019-b79e-15a0b7a16274,Omar Walls,1977-09-17,VI17825,2025-02-03,Flu,2128.56,Pending
+6df609ef-b01c-4ac8-82af-1919db577ca9,John Kelly,1961-07-22,mz08562,2023-09-18,Back Pain,626.98,Pending
+946ecf76-5ed6-4190-9f30-e263a55fa08a,Alicia Contreras,1949-07-31,zn08327,2025-01-31,Dental Surgery,1433.84,Rejected
+3e23067c-cb10-49a8-af05-edebdd7b265f,Taylor Clark,1976-10-16,Cx02324,2023-10-04,Dental Surgery,1902.34,Approved

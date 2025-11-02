@@ -1,0 +1,15 @@
+# This is a placeholder for sample claim documents
+# In a real implementation, this would be a PDF file containing sample insurance claim forms
+# with various types of claims (medical, auto, property, etc.) for testing the OCR and classification system.
+
+# Sample claim structure:
+# - Patient/Insured Name
+# - Date of Service/Incident
+# - Diagnosis/Condition
+# - Amount Claimed
+# - Provider Information
+# - Policy Number
+# - Service Details
+
+# The PDF would contain multiple pages with different claim types to test the system's ability
+# to extract various field formats and classify different claim scenarios. 
