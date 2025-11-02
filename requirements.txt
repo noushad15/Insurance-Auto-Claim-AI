@@ -1,0 +1,45 @@
+# Core libraries
+pytesseract==0.3.10
+pdfplumber==0.10.3
+opencv-python==4.8.1.78
+Pillow==10.1.0
+
+# NLP
+spacy==3.7.2
+nltk==3.8.1
+
+# Machine Learning
+scikit-learn==1.3.2
+numpy==1.24.3
+pandas==2.1.3
+
+# Web App & Visualization
+streamlit==1.28.1
+plotly==5.17.0
+
+# LLM & Azure OpenAI
+openai==0.28
+python-dotenv==1.0.0
+
+# PDF & File Handling
+PyPDF2==3.0.1
+pdf2image==1.16.3
+python-multipart==0.0.6
+
+# API & Utilities
+fastapi==0.104.1
+uvicorn==0.24.0
+requests==2.31.0
+httpx==0.25.2
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+python-dotenv==1.0.0
+
+# For local development
+# (add any additional dev tools below)
+# Agentic AI (LangChain)
+langchain==0.1.14
+tiktoken==0.5.2
+pydantic==1.10.22
+tenacity==8.2.2
+langchain_experimental

@@ -1,0 +1,164 @@
+Auto Claim AI - Technology & Learning Overview
+=============================================
+
+This document is designed to help new team members, contributors, or users understand the core technologies, architecture, and concepts behind the Auto Claim AI system. It also provides learning resources for each major area.
+
+--------------------------------------------------
+
+1. Project Purpose
+------------------
+Auto Claim AI is an intelligent system for automated insurance claim processing. It uses OCR, NLP, machine learning, and large language models (LLMs) to extract, classify, and analyze claim documents, and provides a modern, interactive dashboard for users.
+
+--------------------------------------------------
+
+2. Key Technologies & Concepts
+------------------------------
+
+**A. OCR (Optical Character Recognition)**
+- **Purpose:** Extract text from scanned PDFs and images.
+- **Tech Used:**
+  - `pytesseract` (Python wrapper for Tesseract OCR)
+  - `pdfplumber` (PDF parsing)
+  - `opencv-python` (image preprocessing)
+- **Learn:**
+  - [Tesseract OCR Docs](https://tesseract-ocr.github.io/)
+  - [OpenCV Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
+
+**B. NLP (Natural Language Processing)**
+- **Purpose:** Extract structured fields (name, date, amount, diagnosis, etc.) from unstructured text.
+- **Tech Used:**
+  - `spaCy` (entity recognition, text processing)
+  - Regex patterns for field extraction
+- **Learn:**
+  - [spaCy 101](https://spacy.io/usage/spacy-101)
+  - [Regular Expressions in Python](https://docs.python.org/3/howto/regex.html)
+
+**C. Machine Learning (ML) & Rule-Based Classification**
+- **Purpose:** Classify claims (auto-approve, manual review, reject) and assess risk.
+- **Tech Used:**
+  - `scikit-learn` (for ML models, feature extraction)
+  - Custom rule-based logic for initial classification
+- **Learn:**
+  - [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+  - [Feature Engineering](https://machinelearningmastery.com/feature-engineering-for-machine-learning/)
+
+**D. LLM (Large Language Model) Integration & Agentic AI (LangChain)**
+- **Purpose:** Provide natural language explanations, analytics Q&A, chat, and step-by-step agentic claim processing using Azure OpenAI (GPT models) and LangChain.
+- **Tech Used:**
+  - `openai` Python SDK (for Azure OpenAI)
+  - `langchain`, `langchain_experimental` (agentic workflows)
+  - `tiktoken` (token counting)
+  - Prompt engineering to include real claim/analytics data
+- **Learn:**
+  - [Azure OpenAI Service Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+  - [OpenAI Python Library](https://platform.openai.com/docs/libraries/python-library)
+  - [LangChain Docs](https://python.langchain.com/docs/)
+  - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+
+**E. Web App & Dashboard**
+- **Purpose:** User interface for uploading claims, viewing analytics, and interacting with the LLM.
+- **Tech Used:**
+  - `Streamlit` (Python web app framework)
+  - `plotly` (interactive charts)
+- **Learn:**
+  - [Streamlit Docs](https://docs.streamlit.io/)
+  - [Plotly Python Docs](https://plotly.com/python/)
+
+**F. Database**
+- **Purpose:** Store claims, analytics, settings, and model training history.
+- **Tech Used:**
+  - `sqlite3` (lightweight SQL database)
+- **Learn:**
+  - [SQLite Python Tutorial](https://www.sqlitetutorial.net/sqlite-python/)
+
+**G. Environment & Configuration**
+- **Purpose:** Securely manage API keys and settings.
+- **Tech Used:**
+  - `.env` files and `python-dotenv`
+- **Learn:**
+  - [python-dotenv Docs](https://saurabh-kumar.com/python-dotenv/)
+
+--------------------------------------------------
+
+3. System Architecture Overview
+-------------------------------
+- **User uploads a claim document (PDF/image) via Streamlit UI.**
+- **OCR** extracts text from the document.
+- **NLP** and regex extract structured fields (name, date, amount, etc.).
+- **ML/Rule-based classifier** predicts claim status and risk.
+- **LLM (Azure OpenAI)** provides explanations, Q&A, and chat using real data.
+- **Agentic AI (LangChain)** processes claims step-by-step, using tools for OCR, field extraction, and classification, and explains its reasoning.
+- **Database** stores all claims, analytics, and settings.
+- **Dashboard** visualizes metrics, trends, and supports LLM-powered and agentic workflows.
+
+--------------------------------------------------
+
+**Agentic Claim Processing (LangChain)**
+----------------------------------------
+- The agentic workflow uses a LangChain agent to process claims step-by-step, using tools for OCR, field extraction, and classification.
+- The agent can reason about missing information, handle various input types (file, text, dict, JSON), and explain its process and decision.
+- Accessed from the "🧑‍💼 Agentic Claim" page in the UI.
+- Use for transparent, explainable, or experimental claim processing.
+
+--------------------------------------------------
+
+4. Learning Path for New Team Members
+-------------------------------------
+- Understand the basics of OCR and try extracting text from sample images.
+- Learn how NLP and regex are used to extract fields from text.
+- Study the rule-based and ML classification logic for claims.
+- Explore how LLM prompts and agentic workflows are constructed, and how real data is included.
+- Experiment with the Streamlit UI and see how user interactions trigger backend logic, including LLM and agentic flows.
+- Review the database schema and how claims/analytics are stored and queried.
+- Read the README for setup and usage instructions.
+
+--------------------------------------------------
+
+5. Practical Resources
+----------------------
+- [Awesome OCR](https://github.com/kba/awesome-ocr)
+- [Awesome NLP](https://github.com/keon/awesome-nlp)
+- [Awesome Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [Azure OpenAI Service Samples](https://github.com/Azure/azure-openai-samples)
+
+--------------------------------------------------
+
+6. The System
+----------------------------
+- "Auto Claim AI is an end-to-end insurance claim automation platform. It uses OCR to read documents, NLP to extract key fields, ML to classify and score claims, and Azure OpenAI LLMs to provide explanations, analytics Q&A, and chat. The system is built with Streamlit for a modern UI and uses SQLite for data storage. All LLM features are data-aware, meaning the AI can answer questions and make decisions using real claims and analytics data."
+
+--------------------------------------------------
+
+7. Who Should Learn What?
+-------------------------
+- **Developers:** All sections, especially OCR, NLP, ML, LLM integration, and Streamlit.
+- **Data Scientists:** OCR, NLP, ML, prompt engineering for LLMs.
+- **Product/Support:** Dashboard usage, LLM Q&A, and chat features.
+
+--------------------------------------------------
+
+8. Where to Ask for Help
+------------------------
+- Check the README and this educate.txt first.
+- Review the code and comments.
+- Use the chat LLM for quick questions about claims or analytics.
+- For technical issues, open an issue on the project repository or ask the team lead.
+
+-------------------------------------------------- 
+
+--------------------------------------------------
+
+**Troubleshooting Tips**
+------------------------
+- **Pydantic/Dependency Errors:**
+  - Ensure `pydantic==1.10.22` is installed (LangChain currently requires v1, not v2).
+  - If you see errors about `PythonREPLTool`, ensure you use `langchain_experimental` for advanced tools.
+- **Azure/OpenAI Errors:**
+  - Double-check your `.env` variables and Azure deployment name.
+  - Ensure your deployment is a supported GPT model (e.g., gpt-35-turbo-instruct).
+- **General:**
+  - See README for setup and navigation.
+  - For help, open an issue or ask the team lead.
+
+-------------------------------------------------- 
